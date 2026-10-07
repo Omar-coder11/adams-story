@@ -1,0 +1,19 @@
+h1.main-header {
+    color: blue;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p.adam-story,
+p.the-closing {
+    font-size: 25px;
+    text-align: center;
+    color: brown;
+    line-height: 1.5;
+}
+
+p.the-closing {
+    font-size: 35px;
+    color: red;
+}
